@@ -27,7 +27,7 @@ Now that the installation is complete, create an Anaconda environment
 
 To work with the repository, activate the environment with the command
 
-`conda activate pienv`
+`conda activate eolc`
 
 
 Install packages in `requirements.txt` with the command
