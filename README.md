@@ -35,6 +35,15 @@ Install packages in `requirements.txt` with the command
 `pip install -r requirements.txt`
 
 
+If any basic package is missing at any time (i.e. numpy), it can be easily installed via 
+
+`pip install nameofthepackage`
+
+
 To deactivate Anaconda environment after working
 
 `conda deactivate`
+
+
+Download the EuroSAT dataset from here:
+`http://madm.dfki.de/files/sentinel/EuroSATallBands.zip`
